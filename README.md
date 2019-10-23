@@ -1,2 +1,2 @@
 # multikeyword-find
-A Sql CLR library based on regular expression
+A Sql CLR library based on regular expression and other helper functions for my work.
