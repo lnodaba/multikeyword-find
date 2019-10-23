@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\Tests\bin\Debug\Tests.dll
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\Tests\bin\Debug\Tests.pdb
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\Tests\bin\Debug\SqlCLR.dll
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\Tests\bin\Debug\SqlCLR.pdb
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\Tests\obj\Debug\Tests.dll
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\Tests\obj\Debug\Tests.pdb

@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c# method and RegEx to return phrases containing specific words\SqlCLR\SqlCLR\bin\Debug\SqlCLR.dacpac
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c# method and RegEx to return phrases containing specific words\SqlCLR\SqlCLR\obj\Debug\SqlCLR.sqlprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c# method and RegEx to return phrases containing specific words\SqlCLR\SqlCLR\obj\Debug\Model.xml
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c# method and RegEx to return phrases containing specific words\SqlCLR\SqlCLR\obj\Debug\refactor.xml
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c# method and RegEx to return phrases containing specific words\SqlCLR\SqlCLR\obj\Debug\postdeploy.sql
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c# method and RegEx to return phrases containing specific words\SqlCLR\SqlCLR\obj\Debug\predeploy.sql
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c# method and RegEx to return phrases containing specific words\SqlCLR\SqlCLR\obj\Debug\SqlCLR.dll
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c# method and RegEx to return phrases containing specific words\SqlCLR\SqlCLR\obj\Debug\SqlCLR.pdb
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c# method and RegEx to return phrases containing specific words\SqlCLR\SqlCLR\bin\Debug\SqlCLR.dll
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c# method and RegEx to return phrases containing specific words\SqlCLR\SqlCLR\bin\Debug\SqlCLR.pdb
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\SqlCLR\bin\Debug\SqlCLR.dacpac
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\SqlCLR\bin\Debug\SqlCLR.dll
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\SqlCLR\bin\Debug\SqlCLR.pdb
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\SqlCLR\obj\Debug\SqlCLR.sqlprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\SqlCLR\obj\Debug\SqlCLR.dll
+C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\SqlCLR\obj\Debug\SqlCLR.pdb
