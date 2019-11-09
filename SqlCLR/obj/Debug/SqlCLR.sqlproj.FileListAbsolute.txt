@@ -14,3 +14,12 @@ C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlC
 C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\SqlCLR\obj\Debug\SqlCLR.sqlprojAssemblyReference.cache
 C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\SqlCLR\obj\Debug\SqlCLR.dll
 C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\SqlCLR\obj\Debug\SqlCLR.pdb
+E:\UpWork\On Going George\multikeyword-find\SqlCLR\bin\Debug\SqlCLR.dacpac
+E:\UpWork\On Going George\multikeyword-find\SqlCLR\bin\Debug\SqlCLR.dll
+E:\UpWork\On Going George\multikeyword-find\SqlCLR\bin\Debug\SqlCLR.pdb
+E:\UpWork\On Going George\multikeyword-find\SqlCLR\obj\Debug\Model.xml
+E:\UpWork\On Going George\multikeyword-find\SqlCLR\obj\Debug\refactor.xml
+E:\UpWork\On Going George\multikeyword-find\SqlCLR\obj\Debug\postdeploy.sql
+E:\UpWork\On Going George\multikeyword-find\SqlCLR\obj\Debug\predeploy.sql
+E:\UpWork\On Going George\multikeyword-find\SqlCLR\obj\Debug\SqlCLR.dll
+E:\UpWork\On Going George\multikeyword-find\SqlCLR\obj\Debug\SqlCLR.pdb

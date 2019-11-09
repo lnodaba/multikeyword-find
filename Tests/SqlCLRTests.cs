@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Data.SqlTypes;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
@@ -17,6 +18,21 @@ namespace Tests
 
             var result = UserDefinedFunctions.MultiKeywordFind(Paragraph, KeyWords, MaxWordCountBeetween, MaintainOrder);
             var checkResultHere = result; 
+        }
+
+        [TestMethod]
+        public void udf_TagFilter_QuarterCalls_CLR_Test()
+        {
+            SqlString Paragraph = "N2/4S2E4, SWSE, NESW, SE LOT 1, 3, 5 LOT 4 LOT 6,7";
+
+            var result = UserDefinedFunctions.udf_TagFilter_QuarterCalls_CLR(Paragraph);
+            var resultList = new List<string>();
+            foreach (var item in result)
+            {
+                resultList.Add(item.ToString());
+            }
+
+            Assert.IsTrue(resultList.Count == 7);
         }
     }
 }

@@ -64,5 +64,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MultiKeywordFind.cs" />
+    <Compile Include="udf_TagFilter_QuarterCalls_CLR.cs" />
   </ItemGroup>
 </Project>

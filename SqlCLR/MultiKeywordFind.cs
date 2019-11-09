@@ -54,8 +54,6 @@ public partial class UserDefinedFunctions
         return result;
     }
 
-  
-
     private static List<string> getPhrases(SqlString Paragraph,FindSettings settings)
     {
         List<string> result = new List<string>();

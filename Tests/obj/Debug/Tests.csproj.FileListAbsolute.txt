@@ -6,3 +6,11 @@ C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlC
 C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\Tests\obj\Debug\Tests.csproj.CopyComplete
 C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\Tests\obj\Debug\Tests.dll
 C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\Tests\obj\Debug\Tests.pdb
+E:\UpWork\On Going George\multikeyword-find\Tests\bin\Debug\Tests.dll
+E:\UpWork\On Going George\multikeyword-find\Tests\bin\Debug\Tests.pdb
+E:\UpWork\On Going George\multikeyword-find\Tests\bin\Debug\SqlCLR.dll
+E:\UpWork\On Going George\multikeyword-find\Tests\bin\Debug\SqlCLR.pdb
+E:\UpWork\On Going George\multikeyword-find\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+E:\UpWork\On Going George\multikeyword-find\Tests\obj\Debug\Tests.csproj.CopyComplete
+E:\UpWork\On Going George\multikeyword-find\Tests\obj\Debug\Tests.dll
+E:\UpWork\On Going George\multikeyword-find\Tests\obj\Debug\Tests.pdb

@@ -7,3 +7,12 @@ C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlC
 C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
 C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\ConsoleApp\obj\Debug\ConsoleApp.exe
 C:\Users\Administrator\Desktop\Lecso\UpWork\Modify and optimize existing c#\SqlCLR\ConsoleApp\obj\Debug\ConsoleApp.pdb
+E:\UpWork\On Going George\multikeyword-find\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\UpWork\On Going George\multikeyword-find\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\UpWork\On Going George\multikeyword-find\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\UpWork\On Going George\multikeyword-find\ConsoleApp\bin\Debug\SqlCLR.dll
+E:\UpWork\On Going George\multikeyword-find\ConsoleApp\bin\Debug\SqlCLR.pdb
+E:\UpWork\On Going George\multikeyword-find\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+E:\UpWork\On Going George\multikeyword-find\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+E:\UpWork\On Going George\multikeyword-find\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\UpWork\On Going George\multikeyword-find\ConsoleApp\obj\Debug\ConsoleApp.pdb
